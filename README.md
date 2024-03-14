@@ -1,22 +1,17 @@
 <div align="center">
-  
+
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrudgh12"/>
+
 ##  ☘️KYUNGHO KO
-</div>
 
-
-<div align="center">
-
-<div align="left">
-<i class="fa-solid fa-user-graduate"></i>호서대학교 정보보호학전공
+  <h4>👨‍🎓 호서대학교 정보보호학전공 졸업</h4> 
+  <h4>📚 신세계I&C Java 백앤드 개발자 양성</h4>
+  <h6>(2024/03/04~ing)<h6>  
 
 </div>
-  
-<a><div align="right" >
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrudgh12)](https://solved.ac/rhrudgh12)
-</div></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoaruku&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+<hr/>
 
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoaruku&layout=compact"/>
+ 
+### Interesting...💻
