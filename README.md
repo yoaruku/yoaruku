@@ -11,7 +11,15 @@
 </div>
 
 <hr/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoaruku&layout=compact"/>
+<div align="center">
+  <img align="right" src="http://mazandi.herokuapp.com/api?handle=rhrudgh12&theme=warm"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoaruku&layout=compact"/>
  
-### Interesting...💻
+  ### Interesting...🤔
+  
+  <img src="https://img.shields.io/badge/Java-orange">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white">
+  
+</div>
