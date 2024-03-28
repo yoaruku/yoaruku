@@ -14,9 +14,9 @@
 
 <H2></H2>
 <div align="center">
-  <!-- <img align="right" src="http://mazandi.herokuapp.com/api?handle=rhrudgh12&theme=warm"/> -->
+  <img align="right" src="http://mazandi.herokuapp.com/api?handle=rhrudgh12&theme=warm"/>
     
-  <img align="right" src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width = 40%>
+  <!-- <img align="right" src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" width = 40%> -->
     
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoaruku&layout=compact"/>
  
